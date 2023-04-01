@@ -301,4 +301,7 @@
     *> ChromeOptions option = new ChromeOptions();
     option.addArguments("incognito");
     
-47. 
+47. What is testing technique ?
+
+    3. Bug guesing -> mtlb ki bug gues krna ki kha p bug aa skta h 
+    4. boudry analysys -> mtln agr  1 page m 10 data aana chahiye to hm 11 dal k check krenge.
