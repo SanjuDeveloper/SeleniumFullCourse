@@ -13,7 +13,7 @@
     FluentWait
     thread.sleep(10); [java function]
 
-4. latest versiob
+4. latest version
     4.8.1
 
 5. locators in selenium .
@@ -305,3 +305,11 @@
 
     3. Bug guesing -> mtlb ki bug gues krna ki kha p bug aa skta h 
     4. boudry analysys -> mtln agr  1 page m 10 data aana chahiye to hm 11 dal k check krenge.
+
+
+    => PREORITY, SERIVERITY
+    => SPRINT BACKLOG PRODUCT PRODUCT
+    => Defect lifrcyclle.
+    => Bug lifecycle
+    => RETESTING. REGRASSION TESTING.
+    => SMOKE AND SENETY SEATING.

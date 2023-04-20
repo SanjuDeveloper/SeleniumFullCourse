@@ -72,10 +72,24 @@ ANSWER:
 	Like validation, alignments and performance etc...
 
 QUESTION:
+	What is an Exit Criterion? 
+
+ANSWER:
+	Exit criterion is used to determine whether a given test activity has been completed or NOT
+
+QUESTION:
 	WHAT IS BACKLOG?
 
 ANSWER:
 	Backlog menas the userstories which are not developed yet.
+
+QUESTION:
+	What is product backlog and sprint backlog in agile?
+
+ANSWER:
+
+	*> Image result for sprint backlog product product in agile software testing The product backlog gives an overview of the entire product.
+	*> A sprint backlog gives a closer focus on the work of the product during a specific time period
 
 QUESTION:
 	WHAT IS BACKLOG & GROWMMING ?
@@ -255,6 +269,12 @@ ANSWER:
     Major ->  If the Customer is not able to buy only some item or 1-2 item [ here functionality is breaking but not completely ]
     Minor -> If the item cart item counting if not visible after page refresh [ here functionality is not breaking ]
 
+QUESTION:
+	 DIFFERENCE BETWEEN  preority AND SEVERITY ?
+
+ANSWER:
+	*> Severity is a term that denotes how severely a defect can affect the functionality of the software.
+	*> Priority is a term that defines how fast we need to fix a defect
 
 QUESTION:
     WHAT IS preority ?
@@ -271,7 +291,7 @@ ANSWER:
     In smoke testing we need to test only very height lavel functionality.
     We need to do SENETY testing after each and every commit. [ mtlb jb bhi master branch m koi code merge hoga tb main main functionality test hogi.]
 
-	Smoke Testing means -> You will tet some critcal functionality of the software in daily besis
+	Smoke Testing means -> You will tet some critcal functionality of the software
 	SENETY testing means -> You will test the main main functionality of software after each and every ans test that is there is nany new issue occoring by this fix/commit..
 	-> Smoke testing can be any time because it should be each and every commit..
 
