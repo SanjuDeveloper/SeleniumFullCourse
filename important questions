@@ -1,5 +1,5 @@
 How can we configure testNg project with maven ?
-=> By using the surefire pligin ( ise pom.xml ) file m add krna hota h .
+=> By using the maven-surefire-plugin dependancy ( ise pom.xml ) file m add krna hota h .
 
 0. WHICH FRAMEWORK ARE YOU USING ?  !Important
     //We are using Hybrid framework IN selenium
