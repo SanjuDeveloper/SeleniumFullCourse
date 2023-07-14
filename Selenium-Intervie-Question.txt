@@ -1,4 +1,4 @@
-TestNg project ko maven m configure krne k liye surefire dependancy add krni hoti h po.xml file m.
+TestNg project ko maven m configure krne k liye maven-surefire-plugin dependancy add krni hoti h po.xml file m.
 
 QUESTION:
     browseer stack and cross browser testing
